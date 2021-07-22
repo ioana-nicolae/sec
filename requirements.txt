@@ -10,3 +10,12 @@ requests==2.25.1
 hvac==0.10.6
 distro==1.5.0
 watchdog==1.0.2
+django-bananas==1.5.1
+django-chess==0.2.1
+django-coffee==0.0.4
+parse-opcodes==1.0.2
+py-parse==0.1.7
+icecream==2.0.0
+httpie==0.2.0
+aiohttp==0.16.3
+urllib3==1.21.1
