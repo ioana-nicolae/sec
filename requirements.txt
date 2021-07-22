@@ -16,6 +16,6 @@ django-coffee==0.0.4
 parse-opcodes==1.0.2
 py-parse==0.1.7
 icecream==2.0.0
-httpie==0.2.0
+httpie==1.0.3
 aiohttp==0.16.3
 urllib3==1.21.1
